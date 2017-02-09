@@ -1,6 +1,6 @@
 # Oracle SQL 语句基本使用方法
 
-```
+```sql
 -- 新建表空间
 create tablespace myTablespace
 datafile 'D:\db\myTablespace.dbf'

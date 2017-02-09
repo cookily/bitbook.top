@@ -1,6 +1,6 @@
 # Oracle SQL 语句基本使用方法之建表
 
-```
+```sql
 --创建员工表
 create table employee
 (
