@@ -6,5 +6,5 @@
     * [Oracle SQL 语句基本使用方法](oracle/sql1.md)
     * [数据表管理](oracle/dbbase1.md)
     * [Oracle SQL 语句基本使用方法之建表](oracle/sql2.md)
-    * [DML](oracle/DML.md)
+    * [DML ](oracle/DML.md)
     * [DML sql](oracle/DML_sql.md)
