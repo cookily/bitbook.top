@@ -12,6 +12,6 @@
 * [第四章:JavaScript](c4/s1.md)
 * [第五章:JQuery](c5/s1.md)
     * [Jquery简介](c5/s1.md)
-    * [JQuey选择器](c5/c2.md)
+    * [JQuey选择器](c5/s2.md)
     * ​
 
